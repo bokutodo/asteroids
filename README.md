@@ -1,6 +1,6 @@
 # Asteroids
 
-A classic space shooter built with Pygame and managed with uv.
+A classic space shooter built with Pygame and managed with uv, developed as a [bootDev](https://www.boot.dev/) project
 
 
 ## Features
